@@ -12,4 +12,6 @@ This repository will contain all the learnt reesources and practices while revis
    - indexing data
    - group and aggregate data
    - plotting and visualization
+
+#### 2. DATA MINING Concepts, Models, Methods, and Algorithms
     
